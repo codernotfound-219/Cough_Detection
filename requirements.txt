@@ -1,0 +1,8 @@
+numpy
+pandas
+gradio
+tensorflow-macos
+tensorflow-metal
+matplotlib
+librosa
+scipy
